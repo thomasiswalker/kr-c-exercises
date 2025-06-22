@@ -1,0 +1,16 @@
+# Ignore all executable files starting with ex_ (no extension)
+ex_*
+
+# But do NOT ignore any C source files
+!*.c
+
+# Ignore common editor/IDE files (optional)
+*.swp
+*~
+.vscode/
+.idea/
+
+# Ignore object files and other build artifacts
+*.o
+*.obj
+*.exe
