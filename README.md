@@ -8,12 +8,13 @@ This repository contains solutions to exercises from **"The C Programming Langua
 - **ansi-style**: Modern ANSI C style solutions compatible with current compilers.
 
 ## Structure
-
+'''
 c-exercises/
 ├── chapter_01/
 ├── chapter_02/
 ├── chapter_03/
 ...
+'''
 
 Each chapter folder contains solutions for exercises in that chapter, named by exercise number, e.g., `ex_01_01.c` for Exercise 1.1.
 
@@ -32,7 +33,10 @@ For K&R style code, compile with:
 gcc -std=gnu89 -Wall chapter_01/ex_01_01.c -o ex_01_01
 ```
 
-Warnings will be encountered. The ones encountered on my machine (WSL2 Debian Terminal) will be discussed briefly in each exercise's README
+## Warnings
+You may encounter compiler warnings, especially when compiling K&R style code on modern systems (tested on WSL2 Debian).
+
+These warnings will be discussed briefly in each exercise's README or within the source file comments.
 
 ## License
 
