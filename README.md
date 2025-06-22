@@ -8,13 +8,13 @@ This repository contains solutions to exercises from **"The C Programming Langua
 - **ansi-style**: Modern ANSI C style solutions compatible with current compilers.
 
 ## Structure
-'''
+```
 c-exercises/
 ├── chapter_01/
 ├── chapter_02/
 ├── chapter_03/
 ...
-'''
+```
 
 Each chapter folder contains solutions for exercises in that chapter, named by exercise number, e.g., `ex_01_01.c` for Exercise 1.1.
 
