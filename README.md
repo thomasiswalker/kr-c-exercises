@@ -16,7 +16,7 @@ c-exercises/
 ...
 ```
 
-Each chapter folder contains solutions for exercises in that chapter, named by exercise number, e.g., `ex_01_01.c` for Exercise 1.1.
+Each chapter folder contains solutions for exercises in that chapter, named by exercise number, e.g., `ex_01_01.c` for Exercise 1-1.
 
 ## How to Compile
 
